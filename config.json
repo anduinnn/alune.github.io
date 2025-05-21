@@ -1,6 +1,8 @@
 {
     "title":"Alune",
-    "subTitle":"当生则生,当死则死,来取自如.",
+    "subTitle":"当生则生,当死则死",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "email":"981244680@qq.com",
+    "needComment":1
 }
